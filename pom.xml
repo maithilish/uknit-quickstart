@@ -26,7 +26,11 @@
 
 	<dependencies>
 
-		<!-- add uknit-core dependency before running the quickstart -->
+		<dependency>
+        		<groupId>org.codetab.uknit</groupId>
+        		<artifactId>uknit-core</artifactId>
+        		<version>set this to latest uknit-core version</version>
+		</dependency>
 
 		<dependency>
 			<groupId>org.apache.commons</groupId>
